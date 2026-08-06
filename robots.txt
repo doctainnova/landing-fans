@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ⚠️ Actualizá el dominio por el subdominio real
+Sitemap: https://fansdelmate.com.ar/sitemap.xml

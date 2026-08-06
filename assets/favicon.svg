@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#215a17"/>
+      <stop offset="1" stop-color="#0e2109"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#bg)"/>
+  <!-- steam -->
+  <g fill="none" stroke="#9fd24a" stroke-width="2.4" stroke-linecap="round" opacity="0.9">
+    <path d="M27 15c-2.4-2.6 2.4-4.6 0-7.2"/>
+    <path d="M37 15c-2.4-2.6 2.4-4.6 0-7.2"/>
+  </g>
+  <!-- bombilla -->
+  <rect x="37.5" y="17" width="4.2" height="24" rx="2" transform="rotate(24 39.6 29)" fill="#d9e6c9"/>
+  <!-- gourd -->
+  <path d="M32 22c-9.4 0-15 6.4-15 15.4C17 47 23.9 54 32 54s15-7 15-16.6C47 28.4 41.4 22 32 22Z" fill="#f6f1e3"/>
+  <!-- yerba fill -->
+  <path d="M20 34c3.4-2.2 6.2-2 8.8 0 2.3 1.8 4.2 1.8 6.4 0 2.6-2 5.4-2.2 8.8 0-.5 8-5.6 13.4-12 13.4S20.5 42 20 34Z" fill="#7db63c"/>
+  <!-- people silhouettes -->
+  <g fill="#16300f">
+    <circle cx="26" cy="40" r="2.2"/><path d="M22.4 47c0-2.4 1.5-3.9 3.6-3.9s3.6 1.5 3.6 3.9Z"/>
+    <circle cx="32" cy="41.4" r="2.4"/><path d="M28 49c0-2.6 1.7-4.3 4-4.3s4 1.7 4 4.3Z"/>
+    <circle cx="38" cy="40" r="2.2"/><path d="M34.4 47c0-2.4 1.5-3.9 3.6-3.9s3.6 1.5 3.6 3.9Z"/>
+  </g>
+</svg>

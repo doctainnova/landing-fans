@@ -1,0 +1,9 @@
+# build output (versión auto-contenida generada)
+dist/
+
+# os / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
+*.log
